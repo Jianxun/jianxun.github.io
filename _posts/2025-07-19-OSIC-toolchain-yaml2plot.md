@@ -7,8 +7,6 @@ tags: [analog]     # TAG names should always be lowercase
 
 ## Introduction
 
-This is my first blog post using Jekyll with the Chirpy theme. Here's an example of code:
-
-```python
-print("Hello, world!")
+See the new plot tool
+https://github.com/Jianxun/yaml2plot
 ```
